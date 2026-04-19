@@ -56,5 +56,5 @@ Hasil klasifikasi dievaluasi menggunakan *Confusion Matrix* dan *Classification 
 
 ---
 **Kontak:**
-Github : @Fiqrif(https://github.com/Fiqrif)
-LinkedIn : https://www.linkedin.com/in/muhamad-fiqri-firmansyah-3509612a6/
+1. **Github :** @Fiqrif(https://github.com/Fiqrif)
+2. **LinkedIn :** https://www.linkedin.com/in/muhamad-fiqri-firmansyah-3509612a6/
